@@ -41,7 +41,9 @@
     </div>
 
         <p class="slideshow-column">Please be sure to have a look at out timetable for availability.</p>
-        <p class="slideshow-column">Be sure to check out our <a href="php/gallery.php">gallery</a></p>
+        <p class="slideshow-column">
+            Be sure to check out our <a href="php/gallery.php">gallery</a> for pictures of our staff
+            and members taking part in our wilderness sessions.</p>
     </div>
 
     <?php

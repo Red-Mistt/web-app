@@ -17,12 +17,12 @@ body {
 }
 
 a:link {
-    color: #620;
+    color: #006600;
     text-decoration: none;
 }
 
 a:visited {
-    color: #000;
+    color: #620;
     text-decoration: none;
 }
 
