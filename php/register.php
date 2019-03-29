@@ -36,7 +36,7 @@
         </label> -->
     </div>
     <br />
-    <p>Already have an account? <a href="login.php">Click here</a> to sign in.</p>
+    <p class="center">Already have an account? <a href="login.php">Click here</a> to sign in.</p>
 </div>
 
 <?php
