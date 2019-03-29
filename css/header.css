@@ -123,3 +123,9 @@ li a:hover {
         font-size: 0.8em;
     }
 }
+
+.logo {
+    height: 50px;
+    width: 50px;
+    margin: 12.5px 0;
+}
