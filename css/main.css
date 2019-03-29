@@ -10,7 +10,6 @@ body {
     max-width: 1000px;
     min-height: 500px;
     margin: 0 auto;
-    padding-bottom: 75px; /* This value must be equal to the height of the footer */ 
 }
 
 .center {

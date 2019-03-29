@@ -16,7 +16,7 @@
             <input type="checkbox" name="remember"> Remember Me
         </label>
         <label class="pull-right">
-            <input type="checkbox" name="staff-login"> I am a Staff Member
+            <p class="staff-login">For staff members, log in <a href="staff-login.php">here</a></p>
         </label>
     </div>
 
@@ -25,7 +25,7 @@
         <span class="psw">Forgot <a href="#">password?</a></span>
     </div>
     <br />
-    <p>Haven't yet created an account? <a href="register.php">Click here</a> to register.</p>
+    <p class="center">Haven't yet created an account? <a href="register.php">Click here</a> to register.</p>
 </div>
 
 <?php
