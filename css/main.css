@@ -17,17 +17,21 @@ body {
 }
 
 a:link {
-    color: #006600;
+    color: #332989;
     text-decoration: none;
 }
 
 a:visited {
-    color: #620;
+    color: #402efd;
     text-decoration: none;
 }
 
 .pull-right {
     float: right;
+}
+
+.pull-left {
+    float: left;
 }
 
 .maps {

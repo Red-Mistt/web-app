@@ -31,7 +31,7 @@ session_start();
         <header class="navbar">
             <div class="header">
                 <div class="column left">
-                    <p class="logo"><a href="../index.php">LOGO</a></p>
+                    <a href="../index.php"><img src="../assets/images/SportsCampLogoCrop.png" class="logo"/></a>
                 </div>
                 <div class="column middle">
                     <h1>Sports Camp</h1>
