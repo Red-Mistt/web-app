@@ -124,8 +124,8 @@ li a:hover {
     }
 }
 
-.logo {
-    height: 50px;
-    width: 50px;
-    margin: 12.5px 0;
+img.logo {
+    height: 60px;
+    width: 100px;
+    margin: 7px 0;
 }
