@@ -30,6 +30,10 @@ a:visited {
     float: right;
 }
 
+.pull-left {
+    float: left;
+}
+
 .maps {
     padding: 20px 20%;
 }
