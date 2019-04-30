@@ -4,7 +4,7 @@
     bottom: 0;
     width: 100%;
     height: 75px;
-    background-color: #006600;
+    background-color: #402efd;
     color: #fff;
     text-align: center;
     line-height: 1;
@@ -26,10 +26,10 @@ footer::before {
     height: 2px;
     left: 50%;
     margin-left: -250px;
-    background: linear-gradient(to right,rgba(0,51,0,0) 0,#006600 50%,rgba(0,51,0,0) 100%)
+    background: linear-gradient(to right,rgba(0,51,0,0) 0,#402efd 50%,rgba(0,51,0,0) 100%)
 }
 
 h4 {
     margin-top: 15px;
-    color: #006600;
+    color: #402efd;
 }
