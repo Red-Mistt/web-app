@@ -1,6 +1,6 @@
 .header {
     color: #fff;
-    background-color: #006600; /*TODO: Add hex code*/
+    background-color: #332989;
     text-align: center;
     height: 75px;
 }
@@ -43,7 +43,7 @@ h1 {
 
 /* Dropdown Button */
 .dropbtn {
-    color: #000;
+    color: #fff;
     padding: 21.5px;
     font-size: 2em;
     border: none;
@@ -102,7 +102,7 @@ li {
 }
 
 .active {
-    background-color: #006600 !important;
+    background-color: #332989 !important;
 }
 
 li a {
@@ -122,4 +122,10 @@ li a:hover {
     .column.middle {
         font-size: 0.8em;
     }
+}
+
+img.logo {
+    height: 60px;
+    width: 100px;
+    margin: 7px 0;
 }

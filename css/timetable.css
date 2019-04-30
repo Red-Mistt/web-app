@@ -7,15 +7,15 @@ table {
 }
 
 td, th {
-    border: 1px solid #009900;
+    border: 1px solid #fff;
     text-align: left;
     padding: 8px;
 }
   
 tr:nth-child(even) {
-    background-color: #662200;
+    background-color: #402efd;
 }
 
 tr:nth-child(odd) {
-    background-color: #006600;
+    background-color: #332989;
 }
