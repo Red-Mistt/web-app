@@ -17,7 +17,7 @@ session_start();
         <link rel="stylesheet" type="text/css" href="../css/footer.css"/>
         <link rel="stylesheet" type="text/css" href="../css/forms.css"/>
         <!-- Favicon -->
-        <link rel="icon" type="image/x-icon" href="../assets/favicon.png">
+        <link rel="icon" type="image/x-icon" href="../assets/images/SportsCampLogoCrop.png">
     </head>
 
     <body>
