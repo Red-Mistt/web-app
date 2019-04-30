@@ -24,7 +24,7 @@ session_start();
         <script type="text/javascript" src="../js/dropdown.js"></script>
         <script type="text/javascript" src="../js/slideshow.js"></script>
         <!-- Favicon -->
-        <link rel="icon" type="image/x-icon" href="../assets/favicon.png">
+        <link rel="icon" type="image/x-icon" href="../assets/images/SportsCampLogoCrop.png">
     </head>
 
     <body>
