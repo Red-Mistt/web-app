@@ -47,7 +47,7 @@
     </div>
 
     <?php
-        include("php/shared/footer.php");
+        include("php/shared/index-footer.php");
     ?>
 </body>
 
