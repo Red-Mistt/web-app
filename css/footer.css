@@ -33,3 +33,11 @@ h4 {
     margin-top: 15px;
     color: #402efd;
 }
+
+.about a {
+    color: #402efd;
+}
+
+.about a:hover {
+    color: #332989;
+}
